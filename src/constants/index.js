@@ -51,53 +51,23 @@ export const projects = [
 
   export const skills = [
     {
-        name : "CSS",
+        name : "Java",
         color: "bg-red-200",
-        level: "w-[45%]"
+        level: "w-[70%]"
     },
     {
-        name: "HTML",
+        name: "Python",
         color: "bg-orange-200",
         level: "w-[80%]" // Adjust the level as per your preference
     },
     {
-        name: "JavaScript",
-        color: "bg-green-200",
-        level: "w-[70%]" // Adjust the level as per your preference
-    },
-    {
-        name: "TypeScript",
-        color: "bg-blue-200",
-        level: "w-[65%]" // Adjust the level as per your preference
-    },
-    {
-        name: "Next.js",
-        color: "bg-pink-200",
-        level: "w-[60%]" // Adjust the level as per your preference
-    },
-    {
-        name: "MySQL",
-        color: "bg-purple-200",
-        level: "w-[50%]" // Adjust the level as per your preference
-    },
-    {
-        name: "Prisma",
-        color: "bg-gray-200",
-        level: "w-[55%]" // Adjust the level as per your preference
-    },
-    {
         name: "C",
-        color: "bg-gray-200",
-        level: "w-[40%]" // Adjust the level as per your preference
-    },
-    {
-        name: "C++",
-        color: "bg-lime-200",
-        level: "w-[60%]" // Adjust the level as per your preference
-    },
-    {
-        name: "C#",
-        color: "bg-yellow-200",
+        color: "bg-green-200",
         level: "w-[50%]" // Adjust the level as per your preference
-    }
+    },
+    {
+        name: "HTML",
+        color: "bg-purple-200",
+        level: "w-[45%]" // Adjust the level as per your preference
+    },
   ]
