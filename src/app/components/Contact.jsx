@@ -22,7 +22,7 @@ const Contact = () => {
           <div>
             <span className="lg:text-left text-center w-full">
               Contact me for any project or collaboration. I am available for
-              any web development project.
+              any web development project. I am broken
             </span>
           </div>
         </div>
