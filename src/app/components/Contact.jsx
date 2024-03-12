@@ -39,7 +39,7 @@ const Contact = () => {
           <div className="flex flex-col">
             <h2 className="text-4xl text-left w-full">Links</h2>
             <div className="flex gap-4">
-              <Link href={"/mongithub"}>
+              <Link href={"https://github.com/RandomStranger0"}>
                 <Image
                   src={"/img/github-mark.svg"}
                   width={30}
@@ -47,7 +47,7 @@ const Contact = () => {
                   alt="github logo"
                 />
               </Link>
-              <Link href={"/mongithub"}>
+              <Link href={"https://www.linkedin.com/in/yann-blondel-eneme-biloo?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGiGH1VizSjOHd%2FApQIviUw%3D%3D"}>
                 <Image
                   src={"/img/linkedin.svg"}
                   width={30}
