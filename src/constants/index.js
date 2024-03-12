@@ -53,12 +53,12 @@ export const projects = [
     {
         name : "Java",
         color: "bg-red-200",
-        level: "w-[100%]"
+        level: "w-[75%]"
     },
     {
         name: "Python",
         color: "bg-orange-200",
-        level: "w-[80%]" // Adjust the level as per your preference
+        level: "w-[70%]" // Adjust the level as per your preference
     },
     {
         name: "C",
