@@ -53,7 +53,7 @@ export const projects = [
     {
         name : "Java",
         color: "bg-red-200",
-        level: "w-[70%]"
+        level: "w-[100%]"
     },
     {
         name: "Python",
