@@ -35,11 +35,10 @@ const Home = () => {
       <div className="lg:mr-40 flex items-center justify-center flex-col 3xl:mr-80 lg:mx-0 mx-20">
         <h1 className="text-7xl lg:text-left text-center w-full">
           Hi, I'm <br />
-          Julien SARRAU
+          ENEME BILO'O Yann Blondel
         </h1>
         <h5 className="lg:text-left text-center">
-          I'm a professional website developper. Our main goal is to help and
-          satisficed the local & global Clients by web development solutions
+         Apprenti ingénieur en réseau et sécurité recherche une alternance sur 3 ans (Septembre 2024 - Aout 2027)
         </h5>
 
         {/* https://uiverse.io/emmanuelh-dev/nervous-starfish-19 */}
@@ -61,31 +60,16 @@ const Home = () => {
 
           <div className="card__content px-4 p-4 flex flex-row gap-2 flex-wrap">
             <div className="bg-red-200 rounded-2xl px-3 flex items-center justify-center">
-              CSS
+              Java
             </div>
             <div className="bg-orange-200 rounded-2xl px-3 flex items-center justify-center">
-              HTML
+              Python
             </div>
             <div className="bg-green-200 rounded-2xl px-3 flex items-center justify-center">
-              JavaScript
-            </div>
-            <div className="bg-blue-200 rounded-2xl px-3 flex items-center justify-center">
-              TypeScript
-            </div>
-            <div className="bg-pink-200 rounded-2xl px-3 flex items-center justify-center">
-              NextJS
-            </div>
-            <div className="bg-purple-200 rounded-2xl px-3 flex items-center justify-center">
-              MySQL
-            </div>
-            <div className="bg-gray-200 rounded-2xl px-3 flex items-center justify-center">
-              Prisma
-            </div>
-            <div className="bg-gray-200 rounded-2xl px-3 flex items-center justify-center">
               C
             </div>
-            <div className="bg-lime-200 rounded-2xl px-3 flex items-center justify-center">
-              C++
+            <div className="bg-purple-200 rounded-2xl px-3 flex items-center justify-center">
+              HTML
             </div>
             <div className="bg-amber-200 rounded-2xl px-3 flex items-center justify-center">
               C#
