@@ -25,7 +25,7 @@ const Home = () => {
     >
       <div className="hidden lg:flex  items-center justify-center flex-col">
         <Image
-          src={"/img/me.png"}
+          src={"/img/photo de profil CV.jpg"}
           width={420}
           height={420}
           alt="me"
