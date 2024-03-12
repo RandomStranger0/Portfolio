@@ -22,7 +22,7 @@ const Contact = () => {
           <div>
             <span className="lg:text-left text-center w-full">
               Contact me for any project or collaboration. I am available for
-              any web development project. I am broken
+              any web development project.
             </span>
           </div>
         </div>
@@ -30,11 +30,11 @@ const Contact = () => {
         <div className="grid sm:grid-cols-3 grid-cols-1 gap-6 items-center w-full ">
           <div className="flex flex-col">
             <h2 className="text-4xl text-left w-full">Email</h2>
-            <span>julien.sarrau@edu.esiee.fr</span>
+            <span>yannblondel.enemebiloo@edu.esiee.fr</span>
           </div>
           <div className="flex flex-col">
             <h2 className="text-4xl text-left w-full">Mobile</h2>
-            <span>+33 6 12 34 56 78</span>
+            <span>+33 6 41 49 47 94</span>
           </div>
           <div className="flex flex-col">
             <h2 className="text-4xl text-left w-full">Links</h2>
