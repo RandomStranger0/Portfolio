@@ -19,8 +19,7 @@ const Works = () => {
       </div>
       <div>
         <span>
-          Discover here my recent work ! Here is a showcase of my favourite
-          projects.
+          Découvrez mes projets et activités récentes.
         </span>
       </div>
       <div
