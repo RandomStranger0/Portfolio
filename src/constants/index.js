@@ -38,7 +38,7 @@ export const projects = [
     {
       index: 4,
       name: "Tutorat",
-      description: "Tuteur.",
+      description: "Tuteur en Algorithmique, mécanique et mathématiques au sein de mon école.",
       tags: [
         { name: "React", color: "bg-blue-200" }, // Tailwind class for React blue
         { name: "Socket.io", color: "bg-gray-200" }, // Tailwind class for Socket.io dark
