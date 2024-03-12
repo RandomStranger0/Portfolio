@@ -4,10 +4,9 @@ export const projects = [
       name: "Dialogue international",
       description: "Un échange virtuel avec les étudiants à l'international et principalement de l'université de Dallas. Le but était de promouvoir les objectifs de développement durables des nations unies parmi les jeunes. Entre autre l'égalité des genres, lutte contre le changement climatique et intégration sociale.",
       tags: [
-        { name: "React", color: "bg-blue-200" }, // Tailwind class for React blue
-        { name: "Node.js", color: "bg-green-200" }, // Tailwind class for Node.js green
-        { name: "MongoDB", color: "bg-green-200" }, // Tailwind class for MongoDB green
-        { name: "Sustainability", color: "bg-green-200" } // Tailwind class for sustainability green
+        { name: "Anglais", color: "bg-blue-200" }, // Tailwind class for React blue
+        { name: "Volontariat", color: "bg-green-200" } // Tailwind class for Node.js green
+       
       ],
       source_code_link: "https://github.com/yourusername/ecoconnect",
     },
@@ -16,10 +15,9 @@ export const projects = [
       name: "Concours d'éloquence ESIEE Paris",
       description: "Un concours organisé par ESIEE Paris pour valoriser l'éloquence. J'ai présenté le thème de la santé mentale et remporté le trophée du Ier espoir d'Eloquence ",
       tags: [
-        { name: "Vue.js", color: "bg-green-200" }, // Tailwind class for Vue.js green
-        { name: "Express", color: "bg-gray-200" }, // Tailwind class for Express dark
-        { name: "AI", color: "bg-pink-200" }, // Tailwind class for AI pink
-        { name: "News Aggregator", color: "bg-yellow-200" } // Tailwind class for news yellow
+        { name: "Eloquence", color: "bg-green-200" }, // Tailwind class for Vue.js green
+        { name: "Structuration d'une argumentation", color: "bg-gray-200" } // Tailwind class for Express dark
+       
       ],
       source_code_link: "https://github.com/yourusername/techtrend",
     },
@@ -28,10 +26,9 @@ export const projects = [
       name: "Zuul-Bad",
       description: "Zuul-Bad est un jeu vidéo basique d'aventure programmé entièrement en java en première année dans le cadre de mon cursus académique. ",
       tags: [
-        { name: "Angular", color: "bg-red-200" }, // Tailwind class for Angular red
-        { name: "Firebase", color: "bg-yellow-200" }, // Tailwind class for Firebase yellow
-        { name: "Fitness", color: "bg-pink-200" }, // Tailwind class for fitness pink
-        { name: "Progress Tracking", color: "bg-blue-200" } // Tailwind class for progress tracking blue
+        { name: "Java", color: "bg-red-200" }, // Tailwind class for Angular red
+        { name: "Organisation du travail", color: "bg-yellow-200" } // Tailwind class for Firebase yellow
+       
       ],
       source_code_link: "https://github.com/yourusername/fittrack",
     },
@@ -40,7 +37,7 @@ export const projects = [
       name: "Tutorat",
       description: "Tuteur en Algorithmique, mécanique et mathématiques au sein de mon école.",
       tags: [
-        { name: "React", color: "bg-blue-200" }, // Tailwind class for React blue
+        { name: "Esprit d'équipe", color: "bg-blue-200" }, // Tailwind class for React blue
         { name: "Socket.io", color: "bg-gray-200" }, // Tailwind class for Socket.io dark
         { name: "Collaboration", color: "bg-red-200" }, // Tailwind class for collaboration red
         { name: "Real-time", color: "bg-teal-200" } // Tailwind class for real-time teal
