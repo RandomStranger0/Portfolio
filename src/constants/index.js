@@ -19,7 +19,7 @@ export const projects = [
         { name: "Structuration d'une argumentation", color: "bg-gray-200" } // Tailwind class for Express dark
        
       ],
-      source_code_link: "https://github.com/yourusername/techtrend",
+      source_code_link: "https://github.com/yourusername/techtrend", 
     },
     {
       index: 3,
@@ -35,12 +35,11 @@ export const projects = [
     {
       index: 4,
       name: "Tutorat",
-      description: "Tuteur en Algorithmique, mécanique et mathématiques au sein de mon école.",
+      description: "Tuteur en Algorithmique, mécanique et mathématiques à ESIEE Paris pour des élèves de niveau 2.",
       tags: [
         { name: "Esprit d'équipe", color: "bg-blue-200" }, // Tailwind class for React blue
-        { name: "Socket.io", color: "bg-gray-200" }, // Tailwind class for Socket.io dark
-        { name: "Collaboration", color: "bg-red-200" }, // Tailwind class for collaboration red
-        { name: "Real-time", color: "bg-teal-200" } // Tailwind class for real-time teal
+        { name: "discipline", color: "bg-gray-200" } // Tailwind class for Socket.io dark
+       
       ],
       source_code_link: "https://github.com/yourusername/codecollab",
     },
