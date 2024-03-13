@@ -21,8 +21,7 @@ const Contact = () => {
           </div>
           <div>
             <span className="lg:text-left text-center w-full">
-              Contact me for any project or collaboration. I am available for
-              any web development project.
+              Contactez moi pour tout projet ou collaboration. Je suis disponible pour une alternance en réseau et sécurité
             </span>
           </div>
         </div>
