@@ -71,9 +71,6 @@ const Home = () => {
             <div className="bg-purple-200 rounded-2xl px-3 flex items-center justify-center">
               HTML
             </div>
-            <div className="bg-amber-200 rounded-2xl px-3 flex items-center justify-center">
-              C#
-            </div>
           </div>
         </div>
       </div>
