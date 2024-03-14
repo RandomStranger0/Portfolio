@@ -72,8 +72,13 @@ export const projects = [
         level: "w-[50%]" // Adjust the level as per your preference
     },
     {
-        name: "HTML",
+        name: "VHDL",
         color: "bg-purple-200",
-        level: "w-[45%]" // Adjust the level as per your preference
+        level: "w-[35%]" // Adjust the level as per your preference
+    },
+    {
+        name: "ARM Assembler",
+        color: "bg-pink-200",
+        level: "w-[35%]" // Adjust the level as per your preference
     },
   ]
