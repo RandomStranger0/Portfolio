@@ -69,7 +69,10 @@ const Home = () => {
               C
             </div>
             <div className="bg-purple-200 rounded-2xl px-3 flex items-center justify-center">
-              HTML
+              VHDL
+            </div>
+             <div className="bg-pink-200 rounded-2xl px-3 flex items-center justify-center">
+              ARM Assembler
             </div>
           </div>
         </div>
