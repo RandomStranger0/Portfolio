@@ -2,7 +2,7 @@ export const projects = [
     {
       index: 1,
       name: "Dialogue international",
-      description: "Un échange virtuel avec les étudiants à l'international et principalement de l'université de Dallas. Le but était de promouvoir les objectifs de développement durables des nations unies parmi les jeunes. Entre autre l'égalité des genres, lutte contre le changement climatique et intégration sociale.",
+      description: "Un échange virtuel essentiellement en anglais avec des étudiants à l'international et principalement de l'université de Dallas. Le but était de promouvoir les objectifs de développement durables des nations unies parmi les jeunes. Entres autre l'égalité des genres, lutte contre le changement climatique et intégration sociale des minorités.",
       tags: [
         { name: "Anglais", color: "bg-blue-200" }, // Tailwind class for React blue
         { name: "Volontariat", color: "bg-green-200" } // Tailwind class for Node.js green
