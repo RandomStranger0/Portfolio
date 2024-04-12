@@ -32,7 +32,7 @@ export const projects = [
       ],
       source_code_link: "https://github.com/yourusername/fittrack",
     },
-    {
+     {
       index: 4,
       name: "Feux tricolores",
       description: "Réalisation d'un feu tricolore opérationel à partir d'un programme écrit en VHDL et d'une carte . L'armature du feu étant un PCB (printed Circuit Board), un circuit imprimé et soudé par moi-même.",
@@ -43,7 +43,18 @@ export const projects = [
       source_code_link: "https://github.com/yourusername/codecollab",
     },
     {
-      index: 4,
+      index: 5,
+      name: "Scribe d'examen",
+      description: "Aide et assistance d'une élève non voyante pendant les examens écrits.",
+      tags: [
+        { name: "Communication", color: "bg-purple-200" }, // Tailwind class for React red
+        { name: "Relationnel", color: "bg-pink-200" } // Tailwind class for Socket.io dark
+          { name: "Adaptabilité", color: "bg-orange-200" } // Tailwind class for Socket.io dark
+      ],
+      source_code_link: "https://github.com/yourusername/codecollab",
+    },
+    {
+      index: 6,
       name: "Tutorat",
       description: "Tuteur en algorithmique, mécanique et mathématiques à ESIEE Paris pour des élèves de niveau 2. Cela m'a permis de travailler ma capacité à travailler en équipe (nous étions une équipe de 4) et ma discipline.",
       tags: [
