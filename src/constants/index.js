@@ -48,7 +48,7 @@ export const projects = [
       description: "Aide et assistance d'une élève non voyante pendant les examens écrits.",
       tags: [
         { name: "Communication", color: "bg-purple-200" }, // Tailwind class for React red
-        { name: "Relationnel", color: "bg-pink-200" } // Tailwind class for Socket.io dark
+        { name: "Relationnel", color: "bg-pink-200" }, // Tailwind class for Socket.io dark
           { name: "Adaptabilité", color: "bg-orange-200" } // Tailwind class for Socket.io dark
       ],
       source_code_link: "https://github.com/yourusername/codecollab",
